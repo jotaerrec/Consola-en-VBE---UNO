@@ -1,0 +1,12 @@
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\bin\Debug\BlinkLedArduino.exe.config
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\bin\Debug\BlinkLedArduino.exe
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\bin\Debug\BlinkLedArduino.pdb
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\bin\Debug\BlinkLedArduino.xml
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.vbproj.AssemblyReference.cache
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.vbproj.SuggestedBindingRedirects.cache
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.Resources.resources
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.vbproj.GenerateResource.cache
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.vbproj.CoreCompileInputs.cache
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.exe
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.xml
+C:\Users\javir\source\repos\BlinkLedArduino\BlinkLedArduino\obj\Debug\BlinkLedArduino.pdb
